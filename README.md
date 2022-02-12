@@ -10,4 +10,4 @@ INPUT2- THE LOCATION OF OUTPUT FILE
 
 ## OUTPUT
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/Yaswanthroyal1/MY_PDF_COMPRESSOR/blob/main/imput.jpeg)

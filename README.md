@@ -16,4 +16,4 @@ input file size
 
 output file size
 
-![alt text](https://github.com/Yaswanthroyal1/MY_PDF_COMPRESSOR/blob/main/imput.jpeg)
+![alt text](https://github.com/Yaswanthroyal1/MY_PDF_COMPRESSOR/blob/main/output.jpeg)

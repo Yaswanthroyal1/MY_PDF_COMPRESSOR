@@ -10,4 +10,10 @@ INPUT2- THE LOCATION OF OUTPUT FILE
 
 ## OUTPUT
 
+input file size
+
+![alt text](https://github.com/Yaswanthroyal1/MY_PDF_COMPRESSOR/blob/main/imput.jpeg)
+
+output file size
+
 ![alt text](https://github.com/Yaswanthroyal1/MY_PDF_COMPRESSOR/blob/main/imput.jpeg)
